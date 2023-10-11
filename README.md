@@ -15,7 +15,7 @@
 
 3) Tela Checkout: 
 
-1 - Gerar um modelo de programação, onde o cliente pode adquirir mais de uma unidade sobre o produto. 
+1 - Gerar um modelo de programação, onde o cliente pode adquirir mais de uma unidade sobre o produto. /br
 2 - Tirar o botão "COMPRAR AGORA" por um período curto
 3 - Edição personalizada sobre o checkout 
 4 - Calcular a entrega baseado no CEP do usuário 
